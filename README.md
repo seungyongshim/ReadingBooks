@@ -29,4 +29,4 @@
 ## 2015
 
 ## 2014
-* Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides and Grady Booch (1994) *Design Patterns*, 416p
+* Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides and Grady Booch (1994). *Design Patterns*, 416p
