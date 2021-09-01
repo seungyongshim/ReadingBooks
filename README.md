@@ -9,12 +9,15 @@
 * Sedat Kapanoglu (2021). *Street Coder*, 255p
 * Jon P Smith (2021). *Entity Framework Core in Action, 2/e*, 624p
 
-
 ## 2020
 * Neal Ford (2014). *Functional Thinking: Paradigm Over Syntax*, 180p
+* Ivan Čukić (2018). *Functional Programming in C++*, 320p
+* Dimitris Papadimitriou (2020). *Functional Programming in C#*, 252p
 * David Gourley, Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy(2002). *HTTP: The Definitive Guide*, 656p
+* Robert C. Martin (2019). *Clean Agile*, 240p
 * 조영호 (2019). *오브젝트*, 656p
 * 유인동 (2017). *함수형 자바스크립트 프로그래밍*, 388p
+* 한주영 (2018). *개미 수열을 푸는 10가지 방법*, 108p
 
 ## 2019
 * Robert C. Martin (2017). *Clean Architecture*, 432p
@@ -32,3 +35,4 @@
 
 ## 2014
 * Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides and Grady Booch (1994). *Design Patterns*, 416p
+* Brian W. Kernighan and Rob Pike (1999), The Practice of Programming, 288p
