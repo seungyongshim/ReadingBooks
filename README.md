@@ -22,7 +22,7 @@
 * Martin Fowler (2018). *Refactoring, 2/e*, 448p
 
 ## 2018
-* Harold Abelson, Gerald J. Sussman and Julie Sussman (1996). *Structure and Interpretation of Computer Programs - 2nd Edition*, 657p
+* Harold Abelson, Gerald J. Sussman (1996). *Structure and Interpretation of Computer Programs, 2/e*, 657p
 
 ## 2017
 
