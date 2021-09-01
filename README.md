@@ -13,6 +13,8 @@
 ## 2020
 * Neal Ford (2014). *Functional Thinking: Paradigm Over Syntax*, 180p
 * David Gourley, Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy(2002). *HTTP: The Definitive Guide*, 656p
+* 조영호 (2019). *오브젝트*, 656p
+* 유인동 (2017). *함수형 자바스크립트 프로그래밍*, 388p
 
 ## 2019
 * Robert C. Martin (2017). *Clean Architecture: A Craftsman's Guide to Software Structure and Design*, 432p
