@@ -9,6 +9,7 @@
 * Sedat Kapanoglu (2021). *"Street Coder"*, 255p
 * Jon P Smith (2021). *"Entity Framework Core in Action, 2/e"*, 624p
 * Harold Abelson and Gerald J. Sussman (1996). *"Structure and Interpretation of Computer Programs, 2/e"*, 657p
+* Joyjeet Banerjee (2021). *"AWS Certified Solutions Architect Associate All-in-One Exam Guide, 2/e"*, 448p
 
 ## 2020
 * Neal Ford (2014). *"Functional Thinking: Paradigm Over Syntax"*, 180p
