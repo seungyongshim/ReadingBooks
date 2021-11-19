@@ -10,6 +10,9 @@
 * Jon P Smith (2021). *"Entity Framework Core in Action, 2/e"*, 624p
 * Harold Abelson and Gerald J. Sussman (1996). *"Structure and Interpretation of Computer Programs, 2/e"*, 657p
 * Joyjeet Banerjee (2021). *"AWS Certified Solutions Architect Associate All-in-One Exam Guide, 2/e"*, 448p
+* Peter Sbarski, Yan Cui, Ajay Nair (2018). *"Serverless Architectures on AWS, Second Edition"*, 290p
+* Danilo Poccia (2016). *"AWS Lambda in Action"*, 384p
+* 김동혁 (2021). *"한 권으로 배우는 Vue.js 3"*, 396p
 
 ## 2020
 * Neal Ford (2014). *"Functional Thinking: Paradigm Over Syntax"*, 180p
@@ -20,6 +23,7 @@
 * 조영호 (2019). *"오브젝트"*, 656p
 * 유인동 (2017). *"함수형 자바스크립트 프로그래밍"*, 388p
 * 한주영 (2018). *"개미 수열을 푸는 10가지 방법"*, 108p
+* 장기효 (2018). *"Do it! Vue.js 입문"*, 232p
 
 ## 2019
 * Robert C. Martin (2017). *"Clean Architecture"*, 432p
