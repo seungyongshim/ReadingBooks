@@ -1,3 +1,6 @@
+## 2022
+* Michael Pilquist, Rúnar Bjarnason, and Paul Chiusano (2022). *"Functional Programming in Scala, 2/e"*, 375p
+
 ## 2021
 * Alexander Granin (2022). *"Functional Design and Architecture"*, 575p
 * Enrico Buonanno (2022). *"Functional Programming in C#, 2/e"*, 408p
