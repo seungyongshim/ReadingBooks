@@ -1,5 +1,9 @@
 ## 2022
 * Michael Pilquist, Rúnar Bjarnason, and Paul Chiusano (2022). *"Functional Programming in Scala, 2/e"*, 375p
+* Mark Richards, Neal Ford (2020). *"Fundamentals of Software Architecture"*, 432p
+* Adam Bellemare (2020). *"Building Event-Driven Microservices"*, 324p
+* Francisco Lopez-Sancho Abraham (2022). "Akka in Action, 2/e", 425p
+* 
 
 ## 2021
 * Alexander Granin (2022). *"Functional Design and Architecture"*, 575p
@@ -34,7 +38,7 @@
 * Martin Fowler (2018). *"Refactoring, 2/e"*, 448p
 
 ## 2018
-
+* Tamir Dresher (2017). *"Rx.NET in Action"*, 344p
 
 ## 2017
 
