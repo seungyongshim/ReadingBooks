@@ -4,6 +4,7 @@
 * Adam Bellemare (2020). *"Building Event-Driven Microservices"*, 324p
 * Francisco Lopez-Sancho Abraham (2022). *"Akka in Action, 2/e"*, 425p
 * Martin Kleppmann (2018). *"Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems"*, 611p
+* David Thomas, Andrew Hunt (2019). *"The Pragmatic Programmer, 20th Anniversary Edition"*, 320p
 
 ## 2021
 * Alexander Granin (2022). *"Functional Design and Architecture"*, 575p
