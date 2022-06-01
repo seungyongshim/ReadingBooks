@@ -39,6 +39,7 @@
 * Robert C. Martin (2017). *"Clean Architecture"*, 432p
 * Robert C. Martin (2002). *"Agile Software Development, Principles, Patterns, and Practices"*, 552p
 * Martin Fowler (2018). *"Refactoring, 2/e"*, 448p
+* 김선영 (2016). *"리눅스 시스템 네트워크 프로그래밍, 3/e"*, 705p
 
 ## 2018
 * Tamir Dresher (2017). *"Rx.NET in Action"*, 344p
