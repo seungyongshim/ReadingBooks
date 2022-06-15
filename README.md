@@ -5,8 +5,10 @@
 * Francisco Lopez-Sancho Abraham (2022). *"Akka in Action, 2/e"*, 425p
 * Martin Kleppmann (2018). *"Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems"*, 611p
 * David Thomas, Andrew Hunt (2019). *"The Pragmatic Programmer, 20th Anniversary Edition"*, 320p
-* Gene Kim (2016), *"The DevOps Handbook"*, 480p
-* Gene Kim (2018), *"Accelerate: The Science of Lean Software and DevOps"*, 273p
+* Gene Kim, Humble, J. (2016), *"The DevOps Handbook"*, 480p
+* Gene Kim, Humble, J. (2018), *"Accelerate: The Science of Lean Software and DevOps"*, 273p
+* Humble, J., Farley, D. (2010). *"Continuous delivery: reliable software releases through build, test, and deployment automation"*, 579p
+* Metz, S. (2013). *"Practical object-oriented design in Ruby"*, 274p
 
 ## 2021
 * Alexander Granin (2022). *"Functional Design and Architecture"*, 575p
