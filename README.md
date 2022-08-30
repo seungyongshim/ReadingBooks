@@ -9,7 +9,6 @@
 * Gene Kim, Humble, J. (2018), *"Accelerate: The Science of Lean Software and DevOps"*, 273p
 * Humble, J., Farley, D. (2010). *"Continuous delivery: reliable software releases through build, test, and deployment automation"*, 579p
 * Metz, S. (2013). *"Practical object-oriented design in Ruby"*, 274p
-* Mark Richards, Neal Ford (2020)., *"Fundamentals of Software Architecture"*, 419p
 * Vaughn Vernon (2013). *"Implementing Domain-Driven Design"*, 656p
 
 ## 2021
