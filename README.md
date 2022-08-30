@@ -34,6 +34,7 @@
 * Dimitris Papadimitriou (2020). *"Functional Programming in C#"*, 252p
 * David Gourley, Brian Totty, Marjorie Sayer, Anshu Aggarwal, Sailu Reddy(2002). *"HTTP: The Definitive Guide"*, 656p
 * Robert C. Martin (2019). *"Clean Agile"*, 240p
+* Martin Fowler (2010). "Domain-Specific Languages", 640p
 * 조영호 (2019). *"오브젝트"*, 656p
 * 유인동 (2017). *"함수형 자바스크립트 프로그래밍"*, 388p
 * 한주영 (2018). *"개미 수열을 푸는 10가지 방법"*, 108p
@@ -43,6 +44,7 @@
 * Robert C. Martin (2017). *"Clean Architecture"*, 432p
 * Robert C. Martin (2002). *"Agile Software Development, Principles, Patterns, and Practices"*, 552p
 * Martin Fowler (2018). *"Refactoring, 2/e"*, 448p
+* Martin Fowler (2002). "Patterns of Enterprise Application Architecture, 1/e", 560p
 * 김선영 (2016). *"리눅스 시스템 네트워크 프로그래밍, 3/e"*, 705p
 
 ## 2018
