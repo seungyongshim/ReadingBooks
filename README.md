@@ -1,3 +1,6 @@
+## 2024
+* Vlad Riscutia(2019). *"Programming with Types"*, 336p
+## 2023
 ## 2022
 * :thumbsup::thumbsup::thumbsup: Adam Bellemare (2020). *"Building Event-Driven Microservices"*, 324p
 * :thumbsup::thumbsup: Mark Richards, Neal Ford (2020). *"Fundamentals of Software Architecture"*, 432p
